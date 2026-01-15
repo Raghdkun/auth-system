@@ -9,6 +9,19 @@
 6. [Design Principles](#design-principles)
 7. [Use Cases](#use-cases)
 
+### Related Documentation
+
+| Document | Description |
+|----------|-------------|
+| [00 - Why This Approach](./00-WHY-THIS-APPROACH.md) | Decision analysis and rationale |
+| [02 - Database Schema](./02-DATABASE-SCHEMA.md) | Complete database design |
+| [03 - API Specification](./03-API-SPECIFICATION.md) | REST API endpoints |
+| [04 - Microservice Integration](./04-MICROSERVICE-INTEGRATION.md) | Service integration patterns |
+| [05 - Security Best Practices](./05-SECURITY-BEST-PRACTICES.md) | Security guidelines |
+| [06 - Multi-Database Architecture](./06-MULTI-DATABASE-ARCHITECTURE.md) | Database-per-service pattern |
+| [07 - Event-Driven Communication](./07-EVENT-DRIVEN-COMMUNICATION.md) | Kafka, AWS, VPS options |
+| [08 - Database Permissions & Sync](./08-DATABASE-PERMISSIONS-SYNC.md) | Read/Write permissions & data sync |
+
 ---
 
 ## Executive Summary
